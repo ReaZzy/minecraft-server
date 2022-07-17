@@ -1,0 +1,199 @@
+[00:36:15] [ServerMain/INFO]: Building unoptimized datafixer
+[00:36:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:36:17] [ServerMain/INFO]: Loaded 7 recipes
+[00:36:17] [ServerMain/INFO]: Loaded 1179 advancements
+[00:36:17] [Server thread/INFO]: Starting minecraft server version 1.19
+[00:36:17] [Server thread/INFO]: Loading properties
+[00:36:17] [Server thread/INFO]: Default game type: SURVIVAL
+[00:36:17] [Server thread/INFO]: Generating keypair
+[00:36:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:36:17] [Server thread/INFO]: Using default channel type
+[00:36:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:36:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:36:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:36:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:36:17] [Server thread/INFO]: Preparing level "world"
+[00:36:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:36:18] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[00:36:18] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[00:36:18] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[00:36:19] [Worker-Main-8/INFO]: Preparing spawn area: 31%
+[00:36:19] [Server thread/INFO]: Time elapsed: 1747 ms
+[00:36:19] [Server thread/INFO]: Done (1.854s)! For help, type "help"
+[00:37:59] [Server thread/INFO]: _ReaZzy[/172.29.169.159:49619] logged in with entity id 276 at (-1.5, 66.0, 27.5)
+[00:37:59] [Server thread/INFO]: _ReaZzy joined the game
+[00:38:06] [Server thread/INFO]: _ReaZzy lost connection: Disconnected
+[00:38:06] [Server thread/INFO]: _ReaZzy left the game
+[00:40:35] [Server thread/INFO]: Crafty1664[/172.29.133.220:49329] logged in with entity id 416 at (-1.5, 73.0, 31.5)
+[00:40:35] [Server thread/INFO]: Crafty1664 joined the game
+[00:40:40] [Server thread/INFO]: A4ko[/172.29.6.141:53540] logged in with entity id 484 at (-9.5, 75.0, 25.5)
+[00:40:40] [Server thread/INFO]: A4ko joined the game
+[00:40:50] [Server thread/INFO]: _ReaZzy[/172.29.169.159:49733] logged in with entity id 571 at (-1.5, 66.0, 27.5)
+[00:40:50] [Server thread/INFO]: _ReaZzy joined the game
+[00:40:51] [Server thread/INFO]: _LeEta[/172.29.136.163:60680] logged in with entity id 574 at (-4.5, 67.0, 41.5)
+[00:40:51] [Server thread/INFO]: _LeEta joined the game
+[00:42:41] [Server thread/INFO]: Teleported _ReaZzy to A4ko
+[00:43:00] [Server thread/INFO]: <Server> Anton lox
+[00:43:54] [Server thread/WARN]: Boat (vehicle of A4ko) moved wrongly! 0.3313579518507197
+[00:43:54] [Server thread/WARN]: Boat (vehicle of A4ko) moved wrongly! 0.3313579518507197
+[00:43:54] [Server thread/WARN]: Boat (vehicle of A4ko) moved wrongly! 0.3313579518507197
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.548117429806723
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 1.2094175578079103
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.55050547023734
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 2.418635208800822
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 1.1974722851938964
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.5473408398596575
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 1.185477017405674
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.5375688875133733
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 1.1726309819460425
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.5205240430048548
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 1.1532089068887785
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.4966099140513052
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 1.1325052609445834
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.4665777019995403
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 1.1047331297339724
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.4313716488334762
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 1.0753525223946099
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.3919937606574422
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.3494356996499164
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.3046221460344327
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 1.0395316375054904
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 2.04129493021685
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.9602721992955594
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.258379459009575
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 1.8831792995700312
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.211454788821868
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.8754006839638464
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.1645133824520144
+[00:44:28] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.8278310222469258
+[00:44:28] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.118157732410964
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.781445210971583
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.0729590290344504
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.7657048640217567
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 1.0294725852441502
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.7502793237106857
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.9882535935615806
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.7351622939116282
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.949880627647758
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.7203476044202262
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.9149554596640428
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.7058292084360573
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.8840995909231992
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.6916011800946649
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.8579466293110727
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.6776577120486991
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.8371029635043215
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.6639931130977175
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.822120186187135
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.6506018058651648
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.8134263147027809
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.5981373627972744
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.811252281312079
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.5486382026217029
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.8155718816332183
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.49928753005582394
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.8259999439280818
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.45325513431703257
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.8417394977622621
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.40678654548133863
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.8615153318951911
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.3639823835191578
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.8835668046224896
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.3204300747679554
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.9056811595696104
+[00:44:29] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.28085286107346974
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.9252927945343572
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.9396611863082285
+[00:44:29] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.9466503037425582
+[00:44:30] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.9447842343473667
+[00:44:30] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.9339714431528137
+[00:44:30] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.9148277074863813
+[00:44:30] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.5008792420494501
+[00:44:30] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.46836136702364684
+[00:44:30] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.756671771885749
+[00:44:30] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.56721197977663
+[00:44:30] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.32609954494711246
+[00:44:30] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved wrongly! 0.43108873288258565
+[00:44:31] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved wrongly! 0.45518737735869763
+[00:46:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:46:22] [Server thread/INFO]: [A[A[A/give _Reazzy minecraft:apple 32<--[HERE]
+[00:46:41] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved too quickly! -0.9290083441034085,0.0,-10.622512354524929
+[00:46:41] [Server thread/WARN]: Boat (vehicle of Crafty1664) moved too quickly! -0.6853961797175998,0.0,-11.560832451587203
+[00:46:42] [Server thread/INFO]: Incorrect argument for command
+[00:46:42] [Server thread/INFO]: gamemode 1 _Reazzy<--[HERE]
+[00:46:53] [Server thread/INFO]: Incorrect argument for command
+[00:46:53] [Server thread/INFO]: gamemode 1 _ReaZzy<--[HERE]
+[00:47:04] [Server thread/INFO]: Set _ReaZzy's game mode to Creative Mode
+[00:47:48] [Server thread/INFO]: Incorrect argument for command
+[00:47:48] [Server thread/INFO]: gamemode survivial _Reazzy<--[HERE]
+[00:48:02] [Server thread/INFO]: Incorrect argument for command
+[00:48:02] [Server thread/INFO]: gamemode surviaval _ReaZzy<--[HERE]
+[00:48:44] [Server thread/INFO]: Incorrect argument for command
+[00:48:44] [Server thread/INFO]: gamemode surviaval _ReaZzy<--[HERE]
+[00:49:03] [Server thread/INFO]: Set _ReaZzy's game mode to Survival Mode
+[00:49:06] [Server thread/INFO]: A4ko was shot by Skeleton
+[00:49:13] [Server thread/INFO]: Teleported A4ko to _ReaZzy
+[00:49:33] [Server thread/INFO]: A4ko has made the advancement [Monster Hunter]
+[00:49:36] [Server thread/INFO]: Teleported Crafty1664 to _ReaZzy
+[00:53:50] [Server thread/INFO]: Crafty1664 has made the advancement [Monster Hunter]
+[00:55:45] [Server thread/INFO]: Removed 114 items from 4 players
+[00:57:13] [Server thread/INFO]: Crafty1664 has made the advancement [Stone Age]
+[00:57:32] [Server thread/INFO]: Crafty1664 has made the advancement [Getting an Upgrade]
+[00:59:12] [Server thread/INFO]: _LeEta has made the advancement [Stone Age]
+[00:59:36] [Server thread/INFO]: A4ko has made the advancement [Stone Age]
+[00:59:42] [Server thread/INFO]: _LeEta has made the advancement [Getting an Upgrade]
+[00:59:50] [Server thread/INFO]: _ReaZzy has made the advancement [Stone Age]
+[01:00:34] [Server thread/INFO]: _ReaZzy has made the advancement [Getting an Upgrade]
+[01:03:24] [Server thread/INFO]: A4ko has made the advancement [Getting an Upgrade]
+[01:06:57] [Server thread/INFO]: Crafty1664 has made the advancement [Sweet Dreams]
+[01:07:55] [Server thread/INFO]: _ReaZzy has made the advancement [Monster Hunter]
+[01:09:56] [Server thread/INFO]: _LeEta has made the advancement [Acquire Hardware]
+[01:10:16] [Server thread/INFO]: _LeEta has made the advancement [Isn't It Iron Pick]
+[01:13:35] [Server thread/INFO]: _LeEta has made the advancement [Monster Hunter]
+[01:14:25] [Server thread/INFO]: _ReaZzy was shot by Skeleton
+[01:16:03] [Server thread/INFO]: Crafty1664 has made the advancement [Acquire Hardware]
+[01:19:02] [Server thread/INFO]: Crafty1664 has made the advancement [Best Friends Forever]
+[01:21:55] [Server thread/INFO]: Crafty1664 has made the advancement [Isn't It Iron Pick]
+[01:23:02] [Server thread/INFO]: Crafty1664 has made the advancement [Suit Up]
+[01:23:40] [Server thread/INFO]: A4ko has made the advancement [Sweet Dreams]
+[01:26:19] [Server thread/INFO]: _ReaZzy has made the advancement [Acquire Hardware]
+[01:28:55] [Server thread/INFO]: _ReaZzy has made the advancement [Hot Stuff]
+[01:33:54] [Server thread/INFO]: _ReaZzy has made the advancement [We Need to Go Deeper]
+[01:33:59] [Server thread/INFO]: _LeEta has made the advancement [We Need to Go Deeper]
+[01:39:41] [Server thread/INFO]: Crafty1664 has made the advancement [Diamonds!]
+[01:41:53] [Server thread/INFO]: A4ko has made the advancement [Acquire Hardware]
+[01:41:59] [Server thread/INFO]: A4ko has made the advancement [Isn't It Iron Pick]
+[01:45:07] [Server thread/INFO]: _ReaZzy tried to swim in lava to escape Zombie Villager
+[01:45:24] [Server thread/INFO]: A4ko was shot by Skeleton
+[01:46:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:46:27] [Server thread/INFO]: O]: _ReaZzy has made the advancement [Acquire Hardware]<--[HERE]
+[01:46:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:46:27] [Server thread/INFO]: [01:28:55] [Server thread/INFO]: _ReaZzy has made the advancement [Hot Stuff]<--[HERE]
+[01:46:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:46:27] [Server thread/INFO]: [01:33:54] [Server thread/INFO]: _ReaZzy has made the advancement [We Need to Go Deeper]<--[HERE]
+[01:46:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:46:27] [Server thread/INFO]: [01:33:59] [Server thread/INFO]: _L see below for error<--[HERE]
+[01:46:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:46:39] [Server thread/INFO]: [01:46:27] [Server thread/INFO]: O]: _ReaZzy has made the advancement [Acquire Hardware]<--[HERE]say Stas lox<--[HERE]
+[01:46:44] [Server thread/INFO]: <Server> Stas lox
+[01:46:47] [Server thread/INFO]: Crafty1664 lost connection: Disconnected
+[01:46:47] [Server thread/INFO]: Crafty1664 left the game
+[01:46:51] [Server thread/INFO]: A4ko lost connection: Disconnected
+[01:46:51] [Server thread/INFO]: A4ko left the game
+[01:46:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:46:55] [Server thread/INFO]: quit<--[HERE]
+[01:46:58] [Server thread/INFO]: _LeEta lost connection: Disconnected
+[01:46:58] [Server thread/INFO]: _LeEta left the game
+[01:46:58] [Server thread/INFO]: Stopping the server
+[01:46:58] [Server thread/INFO]: Stopping server
+[01:46:58] [Server thread/INFO]: Saving players
+[01:46:58] [Server thread/INFO]: _ReaZzy lost connection: Server closed
+[01:46:58] [Server thread/INFO]: _ReaZzy left the game
+[01:46:58] [Server thread/INFO]: Saving worlds
+[01:47:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:47:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:47:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:47:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:47:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:47:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:47:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
