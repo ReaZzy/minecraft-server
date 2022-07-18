@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-18 20:13:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-07-17 01:04:58 +0200"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-07-18 21:22:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-07-17 01:34:50 +0200"
@@ -386,6 +398,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-07-17 01:31:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-07-18 21:22:13 +0200"
     },
     "done": true
   },
@@ -470,6 +488,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-07-17 00:57:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-18 20:13:11 +0200"
     },
     "done": true
   },
@@ -688,6 +712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-18 20:13:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2022-07-17 01:32:04 +0200"
@@ -790,6 +820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-18 20:13:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2022-07-17 21:58:32 +0200"
@@ -844,6 +880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-18 20:13:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2022-07-17 00:40:48 +0200"
@@ -853,6 +895,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2022-07-17 22:00:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2022-07-18 21:22:13 +0200"
     },
     "done": true
   },
@@ -1124,6 +1172,7 @@
       "minecraft:deep_frozen_ocean": "2022-07-17 00:49:34 +0200",
       "minecraft:snowy_beach": "2022-07-17 00:52:11 +0200",
       "minecraft:deep_dark": "2022-07-17 01:34:26 +0200",
+      "minecraft:meadow": "2022-07-18 21:20:32 +0200",
       "minecraft:plains": "2022-07-17 00:53:16 +0200"
     },
     "done": false
@@ -1233,6 +1282,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-07-17 01:32:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-18 20:13:11 +0200"
     },
     "done": true
   },
@@ -1551,6 +1606,7 @@
       "cooked_porkchop": "2022-07-17 14:13:09 +0200",
       "chicken": "2022-07-17 00:44:56 +0200",
       "cooked_mutton": "2022-07-17 01:03:07 +0200",
+      "cooked_beef": "2022-07-18 20:26:12 +0200",
       "baked_potato": "2022-07-17 22:55:22 +0200",
       "porkchop": "2022-07-17 00:44:52 +0200",
       "bread": "2022-07-17 01:09:34 +0200",
@@ -1563,6 +1619,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-07-17 00:41:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-18 20:13:11 +0200"
     },
     "done": true
   },
@@ -2184,6 +2246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-18 20:13:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-07-17 00:57:55 +0200"
@@ -2262,6 +2330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-18 20:13:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-07-17 01:30:48 +0200"
@@ -2337,6 +2411,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2022-07-17 01:36:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-18 20:13:11 +0200"
     },
     "done": true
   },
@@ -2559,6 +2639,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2022-07-17 01:36:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-18 20:13:11 +0200"
     },
     "done": true
   },

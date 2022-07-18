@@ -1,48 +1,186 @@
-[00:10:04] [Server thread/INFO]: <Crafty1664> s
-[00:10:10] [Server thread/WARN]: _LeEta moved too quickly! -7.358560234373158,-0.6044241013266856,-7.134675539210548
-[00:10:56] [Server thread/INFO]: Crafty1664 hit the ground too hard
-[00:13:18] [Server thread/WARN]: _LeEta moved too quickly! -5.991632145184326,0.0,-8.102010936606803
-[00:14:12] [Server thread/WARN]: _LeEta moved too quickly! -5.126053445103366,2.0,-8.564781513183789
-[00:14:53] [Server thread/WARN]: _LeEta moved too quickly! 9.034836475088241,-0.12129684053920187,-4.515282692917481
-[00:15:26] [Server thread/INFO]: _LeEta lost connection: Timed out
-[00:15:26] [Server thread/INFO]: _LeEta left the game
-[00:15:35] [Server thread/INFO]: _LeEta[/172.29.136.163:58324] logged in with entity id 60668 at (-1014.5064804312105, 93.76636799395752, -2849.9676846302996)
-[00:15:35] [Server thread/INFO]: _LeEta joined the game
-[00:15:37] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved too quickly! -9.580869727758682,0.0,3.7300473805435104
-[00:15:37] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved too quickly! -9.903834007548426,0.0,3.955751276576848
-[00:15:37] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved too quickly! -10.22223861233499,0.0,4.187706160297239
-[00:15:37] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved too quickly! -10.536200508310344,0.0,4.425609379014077
-[00:15:37] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved too quickly! -10.845855095192178,0.0,4.669153412100059
-[00:15:37] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved too quickly! -11.150830477159388,0.0,4.9184932018524705
-[00:15:37] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved too quickly! -11.450314667513794,0.0,5.1623375858125655
-[00:15:37] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved too quickly! -11.743101717469017,0.0,5.1623375858125655
-[00:15:37] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved too quickly! -12.02763280551278,0.0,5.1623375858125655
-[00:15:37] [Server thread/WARN]: Boat (vehicle of _ReaZzy) moved too quickly! -12.30202671906386,0.0,5.1623375858125655
-[00:18:01] [Server thread/INFO]: Crafty1664 fell from a high place
-[00:18:42] [Server thread/INFO]: _LeEta was impaled by Drowned
-[00:23:02] [Server thread/INFO]: _LeEta fell from a high place
-[00:25:21] [Server thread/INFO]: _LeEta has made the advancement [Light as a Rabbit]
-[00:28:01] [Server thread/INFO]: Crafty1664 lost connection: Disconnected
-[00:28:01] [Server thread/INFO]: Crafty1664 left the game
-[00:30:06] [Server thread/INFO]: Crafty1664[/172.29.133.220:59025] logged in with entity id 72057 at (-114.28327391569121, 68.0, -507.4563079318629)
-[00:30:06] [Server thread/INFO]: Crafty1664 joined the game
-[00:30:51] [Server thread/INFO]: Crafty1664 lost connection: Disconnected
-[00:30:51] [Server thread/INFO]: Crafty1664 left the game
-[00:31:02] [Server thread/INFO]: Villager bss['Librarian'/60366, l='ServerLevel[world]', x=-563.38, y=62.60, z=-2186.35] died, message: 'Librarian was slain by _ReaZzy'
-[00:31:24] [Server thread/INFO]: VaniaToper lost connection: Disconnected
-[00:31:24] [Server thread/INFO]: VaniaToper left the game
-[00:31:30] [Server thread/INFO]: _LeEta lost connection: Disconnected
-[00:31:30] [Server thread/INFO]: _LeEta left the game
-[00:32:02] [Server thread/INFO]: _ReaZzy lost connection: Disconnected
-[00:32:02] [Server thread/INFO]: _ReaZzy left the game
-[00:32:09] [Server thread/INFO]: Stopping the server
-[00:32:09] [Server thread/INFO]: Stopping server
-[00:32:09] [Server thread/INFO]: Saving players
-[00:32:09] [Server thread/INFO]: Saving worlds
-[00:32:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:32:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:32:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:32:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:32:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:32:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:32:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:24:19] [ServerMain/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[18:24:19] [ServerMain/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[18:24:19] [ServerMain/WARN]: Disabling further attempts to query Paging File.
+[18:24:20] [ServerMain/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
+[18:24:21] [ServerMain/INFO]: Building unoptimized datafixer
+[18:24:22] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:24:23] [ServerMain/INFO]: Loaded 7 recipes
+[18:24:23] [ServerMain/INFO]: Loaded 1179 advancements
+[18:24:24] [Server thread/INFO]: Starting minecraft server version 1.19
+[18:24:24] [Server thread/INFO]: Loading properties
+[18:24:24] [Server thread/INFO]: Default game type: SURVIVAL
+[18:24:24] [Server thread/INFO]: Generating keypair
+[18:24:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:24:24] [Server thread/INFO]: Using default channel type
+[18:24:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:24:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:24:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:24:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:24:24] [Server thread/INFO]: Preparing level "world"
+[18:24:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:24:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:24:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:24:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:24:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:24:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:24:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:24:27] [Worker-Main-5/INFO]: Preparing spawn area: 3%
+[18:24:28] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[18:24:28] [Server thread/INFO]: Time elapsed: 3593 ms
+[18:24:28] [Server thread/INFO]: Done (3.744s)! For help, type "help"
+[18:24:38] [Server thread/INFO]: A4ko[/172.29.6.141:62780] logged in with entity id 114 at (-661.5984112260138, 84.0, -2225.7000768185744)
+[18:24:38] [Server thread/INFO]: A4ko joined the game
+[18:24:58] [Server thread/INFO]: _LeEta[/172.29.136.163:49713] logged in with entity id 367 at (-1148.699999988079, 63.0, -3188.33533682358)
+[18:24:58] [Server thread/INFO]: _LeEta joined the game
+[18:25:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
+[18:25:34] [Server thread/INFO]: MaxBigLos[/172.29.161.102:51283] logged in with entity id 852 at (1.5, 66.0, 27.5)
+[18:25:34] [Server thread/INFO]: MaxBigLos joined the game
+[18:25:50] [Server thread/INFO]: VaniaToper[/172.29.150.168:63331] logged in with entity id 1266 at (-636.0490116822879, 78.0, -2315.6637692594627)
+[18:25:50] [Server thread/INFO]: VaniaToper joined the game
+[18:26:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
+[18:26:04] [Server thread/WARN]: VaniaToper moved too quickly! 0.40976248986885366,-10.172304203141898,2.08353582747759
+[18:28:09] [Server thread/INFO]: MaxBigLos has made the advancement [Monster Hunter]
+[18:29:04] [Server thread/INFO]: MaxBigLos has made the advancement [Ice Bucket Challenge]
+[18:39:32] [Server thread/INFO]: MaxBigLos has made the advancement [Voluntary Exile]
+[18:39:52] [Server thread/INFO]: MaxBigLos has made the advancement [Stone Age]
+[18:45:52] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -5.07050504755307,0.0,-9.080193212252198
+[18:45:52] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -5.265524959214872,0.0,-9.42943117449613
+[18:45:52] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -5.460544881532087,0.0,-9.778669131525021
+[18:45:52] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -5.655564813439014,0.0,-10.127907083860919
+[18:45:52] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -5.850584753976818,0.0,-10.477145031972213
+[18:45:52] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -6.0456047022823896,0.0,-10.82638297628182
+[18:45:52] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -6.240624657578792,0.0,-11.175620917169908
+[18:45:52] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -6.435644619167078,0.0,-11.524858854978447
+[18:49:23] [Server thread/INFO]: _LeEta has made the advancement [Not Today, Thank You]
+[18:50:08] [Server thread/INFO]: MaxBigLos has made the advancement [Getting an Upgrade]
+[18:51:40] [Server thread/INFO]: MaxBigLos has made the advancement [Sweet Dreams]
+[18:51:50] [Server thread/INFO]: VaniaToper was shot by Skeleton
+[18:57:04] [Server thread/INFO]: A4ko has made the advancement [Ice Bucket Challenge]
+[18:58:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6789ms or 135 ticks behind
+[18:58:41] [Server thread/WARN]: A4ko moved too quickly! -9.448675197833154,2.318441601941686,-2.6558624465819776
+[19:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4593ms or 91 ticks behind
+[19:03:13] [Server thread/WARN]: MaxBigLos moved too quickly! -9.89642260772331,0.0,-1.6525516456385958
+[19:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[19:05:02] [Server thread/WARN]: A4ko moved too quickly! 8.763793453348285,-0.5800000131130219,5.1441480840571785
+[19:05:02] [Server thread/WARN]: Boat (vehicle of VaniaToper) moved wrongly! 0.5142503993734097
+[19:05:02] [Server thread/WARN]: Boat (vehicle of VaniaToper) moved wrongly! 0.5142503993734097
+[19:05:02] [Server thread/WARN]: Boat (vehicle of VaniaToper) moved wrongly! 0.5142503993734097
+[19:05:02] [Server thread/WARN]: Boat (vehicle of VaniaToper) moved wrongly! 0.5142503993734097
+[19:05:02] [Server thread/WARN]: Boat (vehicle of VaniaToper) moved wrongly! 0.5142503993734097
+[19:05:02] [Server thread/WARN]: Boat (vehicle of VaniaToper) moved wrongly! 0.5142503993734097
+[19:05:02] [Server thread/WARN]: Boat (vehicle of VaniaToper) moved wrongly! 0.5142503993734097
+[19:05:02] [Server thread/WARN]: Boat (vehicle of VaniaToper) moved wrongly! 0.5142503993734097
+[19:05:02] [Server thread/WARN]: Boat (vehicle of VaniaToper) moved wrongly! 0.5464336968911523
+[19:14:57] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -1.9947099316491403,0.0,-9.852418206751281
+[19:14:57] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.2759142611735115,0.0,-10.05694196110926
+[19:14:57] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.5676298845478414,0.0,-10.251385851854138
+[19:14:57] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.868231340406055,0.0,-10.43869933415408
+[19:14:57] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -3.175980843012894,0.0,-10.62196307683098
+[19:14:57] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -3.4892450687707424,0.0,-10.803724803670775
+[19:14:57] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -3.8065747465457207,0.0,-10.985949413230628
+[19:31:29] [Server thread/INFO]: _ReaZzy[/172.29.169.159:52242] logged in with entity id 76553 at (-597.5781908279916, 64.0, -2150.1386113534913)
+[19:31:29] [Server thread/INFO]: _ReaZzy joined the game
+[19:40:44] [Server thread/WARN]: Boat (vehicle of A4ko) moved wrongly! 0.30421346542232186
+[19:42:30] [Server thread/INFO]: _LeEta has made the advancement [What a Deal!]
+[19:44:59] [Server thread/INFO]: Crafty1664[/172.29.133.220:50824] logged in with entity id 96128 at (-111.97964458385543, 68.0, -499.22822229737017)
+[19:44:59] [Server thread/INFO]: Crafty1664 joined the game
+[19:48:18] [Server thread/INFO]: A4ko has made the advancement [What a Deal!]
+[19:52:55] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 10.123960486608212,0.0,1.091294793459383
+[19:52:55] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 10.512911862863348,0.0,1.1332211336894034
+[19:52:55] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 10.90273770819772,0.0,1.1752417357993181
+[19:57:40] [Server thread/INFO]: A4ko has made the advancement [Best Friends Forever]
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 2.0716416977384142,0.0,10.148781709826835
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 2.1373044079900865,0.0,10.542535414489066
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 2.206179561321278,0.0,10.935684988650792
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 2.2785989623246223,0.0,11.328119325561602
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 2.354740297301305,0.0,11.719761436539557
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 2.434761394961697,0.0,12.11053470785373
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 2.5186850089644395,0.0,12.500399765951443
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 2.6065302448316743,0.0,12.889316775070256
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 2.6982546900947,0.0,13.277265056131
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 2.793761062488329,0.0,13.664242791572178
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 2.892961047086146,0.0,14.050246121590135
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 2.995774380939338,0.0,14.435269348363363
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 3.102070436264512,0.0,14.819326383810221
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 3.2116736303883044,0.0,15.202449842874557
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 3.3244830429528065,0.0,15.584646511195388
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 3.440350047759239,0.0,15.965943215913285
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 3.559083381376695,0.0,16.346385611278492
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 3.680567899006519,0.0,16.7259919575381
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! 3.804642634389893,0.0,17.104800642048758
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[19:58:48] [Server thread/WARN]: Boat (vehicle of _LeEta) moved too quickly! -2.7245844906772163,0.0,-9.982753930639774
+[20:02:39] [Server thread/INFO]: VaniaToper lost connection: Disconnected
+[20:02:39] [Server thread/INFO]: VaniaToper left the game
+[20:03:29] [Server thread/INFO]: MaxBigLos fell from a high place
+[20:06:44] [Server thread/INFO]: _ReaZzy has made the advancement [What a Deal!]
+[20:07:15] [Server thread/WARN]: Boat (vehicle of _LeEta) moved wrongly! 0.351318359375
+[20:07:15] [Server thread/WARN]: Boat (vehicle of _LeEta) moved wrongly! 0.351318359375
+[20:07:15] [Server thread/WARN]: Boat (vehicle of _LeEta) moved wrongly! 0.351318359375
+[20:07:15] [Server thread/WARN]: Boat (vehicle of _LeEta) moved wrongly! 0.351318359375
+[20:07:15] [Server thread/WARN]: Boat (vehicle of _LeEta) moved wrongly! 0.351318359375
+[20:09:24] [Server thread/INFO]: MaxBigLos has made the advancement [We Need to Go Deeper]
+[20:13:53] [Server thread/INFO]: MaxBigLos discovered the floor was lava
+[20:14:28] [Server thread/INFO]: VaniaToper[/172.29.150.168:64791] logged in with entity id 138798 at (-621.4786370421037, 82.0, -2310.5752898577944)
+[20:14:28] [Server thread/INFO]: VaniaToper joined the game
+[20:29:03] [Server thread/INFO]: Crafty1664 lost connection: Disconnected
+[20:29:03] [Server thread/INFO]: Crafty1664 left the game
+[20:36:02] [Server thread/INFO]: MaxBigLos was blown up by Creeper
+[20:36:52] [Server thread/INFO]: Crafty1664[/172.29.133.220:49219] logged in with entity id 151274 at (-108.33912232270762, 81.0, 297.30000001192093)
+[20:36:52] [Server thread/INFO]: Crafty1664 joined the game
+[20:56:10] [Server thread/INFO]: MaxBigLos was slain by _LeEta
+[21:11:57] [Server thread/INFO]: MaxBigLos was slain by Spider
+[21:15:41] [Server thread/INFO]: MaxBigLos has made the advancement [Acquire Hardware]
+[21:15:48] [Server thread/INFO]: MaxBigLos has made the advancement [Isn't It Iron Pick]
+[21:18:26] [Server thread/INFO]: MaxBigLos was poked to death by a sweet berry bush
+[21:22:03] [Server thread/INFO]: A4ko lost connection: Disconnected
+[21:22:03] [Server thread/INFO]: A4ko left the game
+[21:23:19] [Server thread/INFO]: MaxBigLos drowned
+[21:24:33] [Server thread/INFO]: MaxBigLos drowned
+[21:25:53] [Server thread/INFO]: MaxBigLos discovered the floor was lava
+[21:27:10] [Server thread/INFO]: MaxBigLos drowned
+[21:29:48] [Server thread/INFO]: MaxBigLos drowned
+[21:30:03] [Server thread/INFO]: MaxBigLos lost connection: Disconnected
+[21:30:03] [Server thread/INFO]: MaxBigLos left the game
+[21:40:32] [Server thread/INFO]: _ReaZzy fell from a high place
+[21:42:49] [Server thread/INFO]: _LeEta lost connection: Disconnected
+[21:42:49] [Server thread/INFO]: _LeEta left the game
+[21:47:23] [Server thread/INFO]: VaniaToper has made the advancement [The Parrots and the Bats]
+[21:50:23] [Server thread/INFO]: _ReaZzy has made the advancement [Voluntary Exile]
+[21:51:47] [Server thread/INFO]: _ReaZzy was shot by Pillager
+[21:52:40] [Server thread/INFO]: _ReaZzy was shot by Pillager
+[21:53:03] [Server thread/INFO]: _ReaZzy lost connection: Disconnected
+[21:53:03] [Server thread/INFO]: _ReaZzy left the game
+[21:53:29] [Server thread/INFO]: VaniaToper was impaled by Drowned
+[22:06:53] [Server thread/INFO]: Crafty1664 lost connection: Disconnected
+[22:06:53] [Server thread/INFO]: Crafty1664 left the game
+[22:06:54] [Server thread/INFO]: VaniaToper lost connection: Disconnected
+[22:06:54] [Server thread/INFO]: VaniaToper left the game
+[22:07:05] [Server thread/INFO]: Stopping the server
+[22:07:06] [Server thread/INFO]: Stopping server
+[22:07:06] [Server thread/INFO]: Saving players
+[22:07:06] [Server thread/INFO]: Saving worlds
+[22:07:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:07:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:07:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
