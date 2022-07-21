@@ -743,15 +743,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2022-07-19 21:28:23 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2022-07-19 21:03:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-07-19 21:28:23 +0200"
     },
     "done": true
   },
@@ -1323,7 +1323,11 @@
     "criteria": {
       "minecraft:taiga": "2022-07-17 00:43:48 +0200",
       "minecraft:frozen_river": "2022-07-17 00:41:43 +0200",
+      "minecraft:birch_forest": "2022-07-21 20:09:52 +0200",
+      "minecraft:bamboo_jungle": "2022-07-21 20:06:06 +0200",
       "minecraft:beach": "2022-07-17 00:55:19 +0200",
+      "minecraft:dark_forest": "2022-07-21 20:03:10 +0200",
+      "minecraft:sparse_jungle": "2022-07-21 20:06:43 +0200",
       "minecraft:river": "2022-07-17 00:55:35 +0200",
       "minecraft:snowy_plains": "2022-07-17 00:49:54 +0200",
       "minecraft:stony_shore": "2022-07-17 01:10:20 +0200",
@@ -1331,8 +1335,11 @@
       "minecraft:grove": "2022-07-17 01:28:15 +0200",
       "minecraft:cold_ocean": "2022-07-17 01:10:36 +0200",
       "minecraft:forest": "2022-07-17 01:07:22 +0200",
+      "minecraft:ice_spikes": "2022-07-21 20:12:31 +0200",
       "minecraft:frozen_ocean": "2022-07-17 00:48:54 +0200",
       "minecraft:deep_frozen_ocean": "2022-07-17 00:49:34 +0200",
+      "minecraft:jungle": "2022-07-21 20:07:34 +0200",
+      "minecraft:old_growth_spruce_taiga": "2022-07-21 20:02:35 +0200",
       "minecraft:snowy_beach": "2022-07-17 00:52:11 +0200",
       "minecraft:deep_dark": "2022-07-17 01:34:26 +0200",
       "minecraft:meadow": "2022-07-18 21:20:32 +0200",
@@ -1379,6 +1386,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2022-07-17 01:13:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-07-21 20:36:24 +0200"
     },
     "done": true
   },
