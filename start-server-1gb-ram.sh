@@ -13,7 +13,7 @@ function closeServer () {
   printf "\e[1;42m ГОТОВО \e[0m"
 }
 
-printf "\e[1;32m НАЖМИ CTRL+C і жди аби вийти \e[0m"
+printf "\n\n\e[1;32m НАЖМИ CTRL+C і жди аби вийти \e[0m\n\n"
 git pull origin master && \
 java -Xmx${ram}M -Xms${ram}M -jar server.jar nogui
 
