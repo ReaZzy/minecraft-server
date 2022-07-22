@@ -4,8 +4,9 @@ GREEN="33"
 BOLDGREEN="\e[1;${GREEN}m"
 ENDCOLOR="\e[0m"
 
+read -p "Назва збереження: " saveName
+
 function closeServer () {
-  read -p "\n\nНазва збереження: " saveName
   saveName=${saveName:-server_save}
   git pull origin master && \
   git add . && \
