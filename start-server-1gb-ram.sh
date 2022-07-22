@@ -1,8 +1,13 @@
 #!/bin/sh
 function closeServer () {
+  set -e
+  read -p 'Назва збереження: ' saveName
+  saveName=${saveName:-server_save}
+  git pull origin master && \
   git add . && \
-  git commit -am "feat: 123"
+  git commit -am "feat: $saveName" && \
   git push origin master
+
 }
 
 git pull origin master && \
