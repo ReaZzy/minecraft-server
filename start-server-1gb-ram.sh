@@ -2,7 +2,6 @@
 
 GREEN="32"
 BOLDGREEN="\e[1;${GREEN}m"
-ENDCOLOR="\e[0m"
 
 
 read -p "Назва збереження: " saveName
@@ -13,7 +12,7 @@ function closeServer () {
   git add . && \
   git commit -am "feat: $saveName" && \
   git push origin master
-  printf "${BOLDGREEN}Готово${ENDCOLOR}"
+  printf "${BOLDGREEN}Готово"
 }
 
 git pull origin master && \
