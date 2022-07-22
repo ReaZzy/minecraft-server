@@ -5,7 +5,7 @@ BOLDGREEN="\e[1;${GREEN}m"
 ENDCOLOR="\e[0m"
 
 function closeServer () {
-  read -p $(printf "\n\n${BOLDGREEN}Назва збереження: ${ENDCOLOR}") saveName
+  read -p $(printf "\n\n${BOLDGREEN}Назва ${BOLDGREEN}збереження: ${ENDCOLOR}") saveName
   saveName=${saveName:-server_save}
   git pull origin master && \
   git add . && \
