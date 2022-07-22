@@ -1,13 +1,16 @@
 #!/bin/sh
+
+GREEN="32"
+BOLDGREEN="\e[1;${GREEN}m"
+ENDCOLOR="\e[0m"
+
 function closeServer () {
-  set -e
-  read -p 'Назва збереження: ' saveName
+  read -p '\n\n${BOLDGREEN}Назва збереження:${ENDCOLOR} ' saveName
   saveName=${saveName:-server_save}
   git pull origin master && \
   git add . && \
   git commit -am "feat: $saveName" && \
   git push origin master
-
 }
 
 git pull origin master && \
