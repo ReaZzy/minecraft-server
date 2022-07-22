@@ -1,11 +1,11 @@
 #!/bin/sh
 
-GREEN="32"
+GREEN="33"
 BOLDGREEN="\e[1;${GREEN}m"
 ENDCOLOR="\e[0m"
 
 function closeServer () {
-  read -p $(printf "\e[32mRed text\e[0m") saveName
+  read -p $(printf "\n\n\e[32mНазва збереження: \e[0m") saveName
   saveName=${saveName:-server_save}
   git pull origin master && \
   git add . && \
