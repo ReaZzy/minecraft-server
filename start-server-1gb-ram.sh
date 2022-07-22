@@ -12,7 +12,7 @@ function closeServer () {
   git add . && \
   git commit -am "feat: $saveName" && \
   git push origin master
-  printf "${BOLDGREEN}Готово"
+
 }
 
 git pull origin master && \
