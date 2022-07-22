@@ -4,10 +4,10 @@ read -p "Назва збереження: " saveName
 
 function closeServer () {
   saveName=${saveName:-server_save}
-  git pull origin master && \
-  git add . && \
-  git commit -am "feat: $saveName" && \
-  git push origin master && \
+  git pull origin master
+  git add .
+  git commit -am "feat: $saveName"
+  git push origin master
   printf "\e[1;42m ГОТОВО \e[0m"
 }
 
