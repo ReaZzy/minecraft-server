@@ -1,9 +1,5 @@
 #!/bin/sh
 
-GREEN="32"
-BOLDGREEN="\e[1;${GREEN}m"
-
-
 read -p "Назва збереження: " saveName
 
 function closeServer () {
@@ -12,7 +8,7 @@ function closeServer () {
   git add . && \
   git commit -am "feat: $saveName" && \
   git push origin master && \
-  printf "$(tput setaf 32)Готово$(tput sgr0)"
+  printf "\e[1;42m ГОТОВО \e[0m"
 }
 
 git pull origin master && \
