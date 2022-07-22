@@ -1,6 +1,6 @@
 #!/bin/sh
 
-read -p "Назва збереження: " saveName
+read -p $(printf "\e[1;33m Назва збереження: \e[0m") saveName
 
 function closeServer () {
   saveName=${saveName:-server_save}
