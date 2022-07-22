@@ -1,9 +1,11 @@
 #!/bin/sh
 
+read -p "Скільки мегабайт оперативи (від 1024): " ram
 read -p "Назва збереження: " saveName
+ram=${ram:-1024}
+saveName=${saveName:-server_save}
 
 function closeServer () {
-  saveName=${saveName:-server_save}
   git pull origin master
   git add .
   git commit -am "feat: $saveName"
@@ -13,6 +15,6 @@ function closeServer () {
 
 printf "\e[1;32m НАЖМИ CTRL+C і жди аби вийти \e[0m"
 git pull origin master && \
-java -Xmx1024M -Xms1024M -jar server.jar nogui
+java -Xmx${ram}M -Xms${ram}M -jar server.jar nogui
 
 trap closeServer INT SIGTERM SIGINT exit
