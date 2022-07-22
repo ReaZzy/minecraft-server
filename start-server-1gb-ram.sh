@@ -11,7 +11,7 @@ function closeServer () {
   git pull origin master && \
   git add . && \
   git commit -am "feat: $saveName" && \
-  git push origin master
+  git push origin master && \
   printf "$(tput setaf 1)Готово$(tput sgr0)"
 }
 
