@@ -4,5 +4,4 @@ saveName=${saveName:-server_save}
 git pull origin master && \
 git add . && \
 git commit -am "feat: $saveName" && \
-git push origin master && \
-exit
+git push origin master
