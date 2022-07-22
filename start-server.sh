@@ -12,10 +12,10 @@ function closeServer () {
   git push origin master
   printf "\e[1;42m ГОТОВО \e[0m"
 }
-trap closeServer SIGINT
 
+trap closeServer SIGINT
 
 git pull origin master && \
 java -Xmx${ram}M -Xms${ram}M -jar server.jar nogui
 
- 
+
