@@ -5,5 +5,5 @@ saveName=${saveName:-server_save}
 git pull origin master && \
 git add . && \
 git commit -am "feat: $saveName"
-sleep 20s
+sleep 20
 git push -u origin master
