@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2022-07-24 11:10:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-17 13:15:32 +0200"
@@ -629,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2022-07-24 11:38:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-07-17 17:01:34 +0200"
@@ -715,6 +727,7 @@
       "minecraft:magma_cube": "2022-07-23 11:31:57 +0200",
       "minecraft:spider": "2022-07-17 13:23:36 +0200",
       "minecraft:creeper": "2022-07-17 13:19:13 +0200",
+      "minecraft:slime": "2022-07-24 11:15:36 +0200",
       "minecraft:phantom": "2022-07-18 20:54:18 +0200",
       "minecraft:zombified_piglin": "2022-07-23 21:39:21 +0200",
       "minecraft:witch": "2022-07-17 16:26:57 +0200",
@@ -730,6 +743,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2022-07-23 19:54:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-07-24 11:38:23 +0200"
     },
     "done": true
   },
@@ -841,6 +860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-07-24 11:38:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-07-17 17:01:05 +0200"
@@ -856,6 +881,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-07-17 01:26:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2022-07-24 11:38:23 +0200"
     },
     "done": true
   },
@@ -1057,6 +1088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-07-24 11:15:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2022-07-17 18:19:02 +0200"
@@ -1096,6 +1133,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-07-17 14:58:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2022-07-24 11:38:23 +0200"
     },
     "done": true
   },
@@ -1231,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-07-24 11:38:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-07-17 13:23:36 +0200"
@@ -1252,6 +1301,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2022-07-17 13:31:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2022-07-24 11:38:23 +0200"
     },
     "done": true
   },
@@ -1429,6 +1484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-07-24 11:15:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-07-17 00:59:50 +0200"
@@ -1472,6 +1533,7 @@
       "minecraft:snowy_plains": "2022-07-17 00:46:03 +0200",
       "minecraft:stony_shore": "2022-07-17 01:06:28 +0200",
       "minecraft:snowy_taiga": "2022-07-17 00:38:00 +0200",
+      "minecraft:dripstone_caves": "2022-07-24 11:09:48 +0200",
       "minecraft:grove": "2022-07-17 14:29:47 +0200",
       "minecraft:jagged_peaks": "2022-07-17 14:34:04 +0200",
       "minecraft:cold_ocean": "2022-07-17 01:10:59 +0200",
@@ -1559,6 +1621,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-17 13:15:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2022-07-24 11:38:23 +0200"
     },
     "done": true
   },
@@ -1655,6 +1723,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2022-07-17 01:11:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-07-24 11:38:23 +0200"
     },
     "done": true
   },
@@ -1838,6 +1912,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2022-07-17 01:23:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2022-07-24 11:38:23 +0200"
     },
     "done": true
   },
@@ -2060,6 +2140,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-07-17 13:19:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-07-24 11:38:23 +0200"
     },
     "done": true
   },
@@ -3016,6 +3102,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2022-07-23 19:55:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-07-24 11:15:47 +0200"
     },
     "done": true
   },

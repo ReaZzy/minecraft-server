@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-07-24 12:23:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2022-07-17 14:30:10 +0200"
@@ -1366,6 +1372,7 @@
       "minecraft:beach": "2022-07-17 14:08:28 +0200",
       "minecraft:dark_forest": "2022-07-17 14:24:29 +0200",
       "minecraft:river": "2022-07-17 14:08:38 +0200",
+      "minecraft:lukewarm_ocean": "2022-07-24 12:46:22 +0200",
       "minecraft:snowy_plains": "2022-07-17 14:03:12 +0200",
       "minecraft:stony_shore": "2022-07-17 15:22:27 +0200",
       "minecraft:snowy_taiga": "2022-07-17 12:44:01 +0200",
@@ -1374,13 +1381,17 @@
       "minecraft:cold_ocean": "2022-07-17 15:22:16 +0200",
       "minecraft:forest": "2022-07-17 13:25:31 +0200",
       "minecraft:lush_caves": "2022-07-21 19:55:49 +0200",
+      "minecraft:deep_cold_ocean": "2022-07-24 12:15:10 +0200",
       "minecraft:ice_spikes": "2022-07-17 14:06:19 +0200",
       "minecraft:frozen_ocean": "2022-07-17 14:03:38 +0200",
+      "minecraft:deep_frozen_ocean": "2022-07-24 11:28:43 +0200",
+      "minecraft:ocean": "2022-07-24 12:38:18 +0200",
       "minecraft:old_growth_spruce_taiga": "2022-07-17 14:24:23 +0200",
       "minecraft:snowy_beach": "2022-07-17 14:03:28 +0200",
       "minecraft:old_growth_birch_forest": "2022-07-17 22:38:48 +0200",
       "minecraft:deep_dark": "2022-07-21 20:01:40 +0200",
       "minecraft:meadow": "2022-07-17 13:47:45 +0200",
+      "minecraft:savanna": "2022-07-24 12:47:17 +0200",
       "minecraft:plains": "2022-07-17 14:06:25 +0200"
     },
     "done": false
@@ -1526,6 +1537,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2022-07-17 13:13:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2022-07-24 11:11:58 +0200"
     },
     "done": true
   },
@@ -1758,6 +1775,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-07-18 18:46:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-07-24 11:09:19 +0200"
     },
     "done": true
   },
@@ -2017,6 +2040,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2022-07-21 19:47:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2022-07-24 11:11:31 +0200"
     },
     "done": true
   },
@@ -2686,15 +2715,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2022-07-23 22:10:18 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_the_recipe": "2022-07-23 20:11:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-23 22:10:18 +0200"
     },
     "done": true
   },
@@ -2926,6 +2955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2022-07-24 11:12:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-07-19 19:11:02 +0200"
@@ -3055,6 +3090,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-07-17 12:59:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-07-24 11:29:41 +0200"
     },
     "done": true
   },
